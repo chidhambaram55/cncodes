@@ -1,3 +1,3 @@
 # cncodes
 these are some of the assignments as part of my
-computer network course upto 
+computer network course upto unix file descriptors
